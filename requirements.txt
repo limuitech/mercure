@@ -23,14 +23,14 @@ requests==2.21.0
 # Utils
 django-model-utils==3.1.2
 pyshorteners==0.6.1
-pytz==2018.9
+pytz==2019.1
 unipath==1.1
 
 # Testing
-freezegun==0.3.10
+freezegun==0.3.11
 selenium==3.141.0
 
 # Documentation
 sphinx==2.0.1
-sphinx-rtd-theme==0.4.0
+sphinx-rtd-theme==0.4.3
 pypandoc==1.4
